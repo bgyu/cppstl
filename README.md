@@ -1,2 +1,1 @@
-# cppstl
-C++ standard library
+# Basic knowledge of C++ standard library
